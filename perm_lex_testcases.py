@@ -1,3 +1,9 @@
+# Name:        Tyler Davis
+# Course:      CPE 202
+# Instructor:  Dave Parkinson
+# Assignment:  Assignment 1
+# Term:        Fall 2017
+
 import unittest
 import perm_lex
 
